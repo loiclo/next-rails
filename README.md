@@ -14,7 +14,7 @@ We have added Docker support to this template. You can find the Dockerfile in th
 *For a quick start, you can run the following command:*
 
 ```bash
-docker-compse up
+docker-compose up
 ```
 
 ## Features:
